@@ -1,0 +1,62 @@
+{
+    "python.pythonPath": "/home/philipuser/anaconda3/envs/jax_env/bin/python",
+    // -- Editing
+    "files.defaultLanguage": "markdown",
+    "editor.suggest.insertMode": "insert",
+    //--workbench ---
+    "workbench.editor.wrapTabs": true,
+    //----debug ---
+    "debug.inlineValues": true,
+    "debug.showInStatusBar": "always",
+    "debug.toolBarLocation": "floating",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist/**": true,
+        "**/log/**": true,
+        "**/logs/**": true,
+        "**/.fdk/**": true,
+        "**/.wandb/**": true
+    },
+    "files.exclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist/**": true,
+        "**/log/**": true,
+        "**/.fdk/**": true,
+        "**/.wandb/**": true
+    },
+    "search.exclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/dist/**": true,
+        "**/log/**": true
+    },
+}
